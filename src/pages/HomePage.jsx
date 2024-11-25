@@ -30,6 +30,8 @@ function HomePage() {
     navigate('/')
     window.location.reload()
   }
+  // check console 
+  console.log("first commit")
   return (
     <>
       <div className="container mt-3">
